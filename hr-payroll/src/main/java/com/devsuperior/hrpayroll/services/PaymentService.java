@@ -16,6 +16,7 @@ public class PaymentService {
 	public Payment getPayment(long workerId, int days) {
 		
 		Worker worker = workerFeignClient.findById(workerId).getBody();
+		/*Worker worker = restTemplate.getForObject(workerHost + "/worker/{id}", Worker.class, uriVariables);*/
 		/*return new Payment("Bob", 200.0, days);*/
 		return new Payment(worker.getName(), worker.getDailyIncome(), days);
 	}
