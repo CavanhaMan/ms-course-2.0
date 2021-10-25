@@ -7,8 +7,6 @@ INDEX VERSION 1.131+C:\ms-course\.metadata\.plugins\org.eclipse.jdt.core
 652727814.index
 2889531134.index
 3680805043.index
-311784127.index
-2911880204.index
 3846198410.index
 1162350221.index
 1589231384.index
@@ -19,7 +17,6 @@ INDEX VERSION 1.131+C:\ms-course\.metadata\.plugins\org.eclipse.jdt.core
 3034103918.index
 1251119853.index
 3329543804.index
-96246792.index
 3668913664.index
 4059559949.index
 2540653688.index
@@ -59,7 +56,6 @@ INDEX VERSION 1.131+C:\ms-course\.metadata\.plugins\org.eclipse.jdt.core
 2004533362.index
 3016115687.index
 3219561907.index
-4136024312.index
 556483470.index
 1728991880.index
 2047767385.index
@@ -115,13 +111,11 @@ INDEX VERSION 1.131+C:\ms-course\.metadata\.plugins\org.eclipse.jdt.core
 4112732412.index
 1099775676.index
 3618192229.index
-2213157302.index
 1212499958.index
 551235658.index
 559887803.index
 458380997.index
 340060739.index
-372190536.index
 2012064111.index
 3749517358.index
 2500336703.index

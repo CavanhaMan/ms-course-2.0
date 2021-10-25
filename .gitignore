@@ -34,4 +34,7 @@ build/
 
 ### ECLIPSE ###
 .metadata
+metadata
+.metadata/
+metadata/
 
