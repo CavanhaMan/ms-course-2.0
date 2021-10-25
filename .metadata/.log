@@ -9646,3 +9646,369 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:73)
 	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.967
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.970
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.971
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.974
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.976
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.978
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.980
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.982
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.986
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.988
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.989
+!MESSAGE executing callback sts4.classpath.YkcsaAGu 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.991
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.992
+!MESSAGE executing callback sts4.classpath.YkcsaAGu FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.993
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:03:54.995
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.YkcsaAGu'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.997
+!MESSAGE executing callback sts4.classpath.IQpNTDou 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:54.998
+!MESSAGE executing callback sts4.classpath.IQpNTDou FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:03:55.000
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.IQpNTDou'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.065
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.082
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.084
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.098
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.099
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.101
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.103
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.123
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.186
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.188
+!MESSAGE executing callback sts4.classpath.IQpNTDou 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.190
+!MESSAGE executing callback sts4.classpath.IQpNTDou FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:03:57.192
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.IQpNTDou'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.270
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.368
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.371
+!MESSAGE executing callback sts4.classpath.YkcsaAGu 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:03:57.373
+!MESSAGE executing callback sts4.classpath.YkcsaAGu FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:03:57.375
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.YkcsaAGu'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.407
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.409
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.425
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.427
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.453
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.454
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.535
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.538
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.559
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.564
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.585
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.588
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.612
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.617
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.631
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.703
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.725
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.742
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.779
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.781
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.804
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.821
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.822
+!MESSAGE executing callback sts4.classpath.IQpNTDou 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.824
+!MESSAGE executing callback sts4.classpath.IQpNTDou FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:03.826
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.IQpNTDou'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.881
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.883
+!MESSAGE executing callback sts4.classpath.YkcsaAGu 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:03.885
+!MESSAGE executing callback sts4.classpath.YkcsaAGu FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:03.887
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.YkcsaAGu'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.099
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.101
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.116
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.118
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.131
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.135
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.136
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.138
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.153
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.157
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.168
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.172
+!MESSAGE executing callback sts4.classpath.YkcsaAGu 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.175
+!MESSAGE executing callback sts4.classpath.YkcsaAGu FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:05.177
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.YkcsaAGu'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.180
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.181
+!MESSAGE executing callback sts4.classpath.IQpNTDou 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:05.183
+!MESSAGE executing callback sts4.classpath.IQpNTDou FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:05.184
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.IQpNTDou'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.351
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.353
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.370
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.372
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.385
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.421
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.423
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.450
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.453
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.467
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.518
+!MESSAGE buffering callback sts4.classpath.YkcsaAGu hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.520
+!MESSAGE executing callback sts4.classpath.YkcsaAGu 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.521
+!MESSAGE executing callback sts4.classpath.YkcsaAGu FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:10.523
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.YkcsaAGu'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.533
+!MESSAGE buffering callback sts4.classpath.IQpNTDou hr-config-server false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.534
+!MESSAGE executing callback sts4.classpath.IQpNTDou 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-25 15:04:10.536
+!MESSAGE executing callback sts4.classpath.IQpNTDou FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-25 15:04:10.537
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.IQpNTDou'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
